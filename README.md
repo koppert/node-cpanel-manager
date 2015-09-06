@@ -17,3 +17,8 @@ cpanel.emailListPopsWithDisk().then(function(data) {
 ## Installation
 
     npm install https://github.com/koppert/node-cpanel-manager.git
+
+
+## API Reference
+
+[Documentation](docs/index.html)
