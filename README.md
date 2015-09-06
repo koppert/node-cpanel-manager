@@ -21,4 +21,4 @@ cpanel.emailListPopsWithDisk().then(function(data) {
 
 ## API Reference
 
-[Documentation](docs/index.html)
+doc folder
