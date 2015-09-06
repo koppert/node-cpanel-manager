@@ -1,6 +1,6 @@
 # CPanelManagement - CPanel management system through nodejs
 
-Node.JS module that implements some functions of the cPanel API 2
+Node.JS module that implements some cPanel API 2 functions
 
 ## Usage Example
 
