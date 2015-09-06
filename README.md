@@ -1,6 +1,6 @@
-# CPanelManagement - Node.JS module that implements some functions of the cPanel API 2
+# CPanelManagement - CPanel management system through nodejs
 
-CPanel management system through nodejs
+Node.JS module that implements some functions of the cPanel API 2
 
 ## Usage Example
 
@@ -16,4 +16,4 @@ cpanel.emailListPopsWithDisk().then(function(data) {
 
 ## Installation
 
-  npm install https://github.com/koppert/node-cpanel-manager.git
+    npm install https://github.com/koppert/node-cpanel-manager.git
